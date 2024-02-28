@@ -1,4 +1,4 @@
-Mall_Customers
+IMDB Sentiment Analysis Using Textblob
 ==============================
 
 A short description of the project.
